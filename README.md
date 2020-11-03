@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Note: I mainly use [gitlab.com](https://gitlab.com/eniehack) now.
+
 **Skills:**
 
 ![Archlinux](https://img.shields.io/badge/Archlinux-%230088cc.svg?style=flat-square&logo=Arch%20Linux&logoColor=white)
