@@ -24,7 +24,7 @@ Note: I mainly use [gitlab.com](https://gitlab.com/eniehack) now.
 ![](https://img.shields.io/badge/SemanticWeb-%23005A9C.svg?style=flat-square&logo=Semantic%20Web&logoColor=white)
 ![Mastodon](https://img.shields.io/badge/Mastodon-%233088D4.svg?style=flat-square&logo=Mastodon&logoColor=white)
 ![Diaspora](https://img.shields.io/badge/Diaspora-%23000000.svg?style=flat-square&logo=Diaspora&logoColor=white)
-Crystal-lang
+![Crystal-lang](https://img.shields.io/badge/Crystal-%23777777.svg?style=flat-square&logo=Crystal&logoColor=white)
 
 **Links:**
 
