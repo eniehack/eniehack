@@ -30,6 +30,9 @@ Note: I mainly use [gitlab.com](https://gitlab.com/eniehack) now.
 ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=flat-square&logo=Neovim&logoColor=white)
 ![Mastodon](https://img.shields.io/badge/Mastodon-%233088D4.svg?style=flat-square&logo=Mastodon&logoColor=white)
 ![Diaspora](https://img.shields.io/badge/Diaspora-%23000000.svg?style=flat-square&logo=Diaspora&logoColor=white)
+![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303.svg?style=flat-square&logo=LibreOffice&logoColor=white)
+![Org](https://img.shields.io/badge/org--mode-%2377AA99.svg?style=flat-square&logo=Org&logoColor=white)
+![KeePassXC](https://img.shields.io/badge/KeePassXC-%236CAC4D.svg?style=flat-square&logo=KeePassXC&logoColor=white)
 
 **favorite protocols**
 
