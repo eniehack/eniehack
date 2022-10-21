@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Note: I mainly use [gitlab.com](https://gitlab.com/eniehack) now.
+![Nakaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=eniehack&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eniehack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 **Skills:**
 
