@@ -7,14 +7,14 @@
 
 ![Archlinux](https://img.shields.io/badge/Archlinux-%230088cc.svg?style=flat-square&logo=Arch%20Linux&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-%2300ADD8.svg?style=flat-square&logo=Go&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300C58E.svg?style=flat-square&logo=Nuxt.js&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=flat-square&logo=Ruby&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=Django&logoColor=white)
-![Ruby](https://img.shields.io/badge/JavaScipt-%23F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScipt-%23F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=TypeScript&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=flat-square&logo=Svelte&logoColor=white)
 
 **favorite langs**
 
-![Elm](https://img.shields.io/badge/Elm-%231293D8.svg?style=flat-square&logo=Elm&logoColor=white)
 ![Crystal-lang](https://img.shields.io/badge/Crystal-%23777777.svg?style=flat-square&logo=Crystal&logoColor=white)
 ![Nim-lang](https://img.shields.io/badge/Nim-%23000000.svg?style=flat-square&logo=nim&logoColor=%23FFE953)
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=flat-square&logo=Ruby&logoColor=white)
@@ -43,12 +43,15 @@
 **Links:**
 
 [![Twitter](https://img.shields.io/badge/Twitter-eniehack-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/eniehack)
-[![Keybase PGP](https://img.shields.io/keybase/pgp/eniehack?style=flat-square)](https://keyoxide.org/6E1005C1115354DF97C80619AE054EAFB2F95E18)
+[![PGP](https://img.shields.io/keybase/pgp/eniehack?style=flat-square)](https://keyoxide.org/6E1005C1115354DF97C80619AE054EAFB2F95E18)
 [![XMPP](https://img.shields.io/badge/XMPP-eniehack@jabber.eniehack.net-%23002B5C.svg?style=flat-square&logo=XMPP&logoColor=white)](xmpp:eniehack@jabber.eniehack.net)
-![Matrixorg](https://img.shields.io/badge/Matrix-eniehack:matrix--jp.net-%23000000.svg?style=flat-square&logo=Matrix&logoColor=white)
+![Matrixorg](https://img.shields.io/badge/Matrix-eniehack:matrix.fedibird.com-%23000000.svg?style=flat-square&logo=Matrix&logoColor=white)
 * Blog(ja): https://blog.eniehack.net
-* Fediverse(Mastodon, Pleroma, GNUSocial, Misskey etc): https://mstdn.sublimer.me/@eniehack
-* Portfolio(ja): https://eniehack.net
+* scrapbox(ja): https://scrapbox.io/eniehack
+* Fediverse account(Mastodon, Pleroma, GNUSocial, Misskey etc)
+  * primary: https://akkoma.eniehack.net/@eniehack
+  * secondary: https://mstdn.sublimer.me/@eniehack
+* Portfolio(ja): https://eniehack.net/~eniehack
 
 <!--
 **eniehack/eniehack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
