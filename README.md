@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Nakaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=eniehack&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eniehack&layout=compact&exclude_repo=pleroma-docker)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eniehack&layout=compact&exclude_repo=pleroma-docker&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 **Skills:**
 
